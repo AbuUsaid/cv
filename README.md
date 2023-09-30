@@ -1,3 +1,5 @@
-# cv
-This is a cv website made using html and css
+# CV website made using html and css
+
 ![Alt Text](CV.gif)
+
+
